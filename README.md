@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Founder of @studion & @duskland. Previously @bang-olufsen, @ustwo, @reasonstudios
+
 You can find me here:
 
 - [Twitter](https://twitter.com/alfrednerstu)
