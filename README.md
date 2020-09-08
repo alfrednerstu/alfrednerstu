@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+You can find me here:
+
+- [Twitter](https://twitter.com/alfrednerstu)
+- [Instagram](https://www.instagram.com/alfrednerstu)
+- [Dribbble](https://dribbble.com/alfred)
+- [Linkedin](https://linkedin.com/in/alfrednerstu)
+
 <!--
 **alfrednerstu/alfrednerstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
