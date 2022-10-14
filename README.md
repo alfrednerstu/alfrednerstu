@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-You can find me here:
+- 🔭 I’m currently freelancing as a product & UI designer and building a project of my own
+- 🌱 I’m currently learning SvelteKit + Supabase
+- 👯 I’m looking to collaborate on web & app projects
+- 🤔 I’m looking for help with development & marketing
+- 💬 Ask me about product & UI design
+- 📫 How to reach me: alfred@nerstu.com
+- 😄 Pronouns: hi/him
+- ⚡ Fun fact: I'm cross dominant. Right eyed, left handed & right footed.
+
+You can also find me here:
+
+- [alfrednerstu.com](https://alfrednerstu.com)
 
 - [Twitter](https://twitter.com/alfrednerstu)
 - [Instagram](https://www.instagram.com/alfrednerstu)
