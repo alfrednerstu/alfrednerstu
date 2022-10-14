@@ -5,9 +5,11 @@
 - 👯 I’m looking to collaborate on web & app projects
 - 🤔 I’m looking for help with development & marketing
 - 💬 Ask me about product & UI design
-- 📫 How to reach me: alfred@nerstu.com
+- 📫 How to reach me: hello@alfrednerstu.com
 - 😄 Pronouns: hi/him
 - ⚡ Fun fact: I'm cross dominant. Right eyed, left handed & right footed.
+
+<!--
 
 You can also find me here:
 
@@ -17,7 +19,6 @@ You can also find me here:
 - [Dribbble](https://dribbble.com/alfred)
 - [Linkedin](https://linkedin.com/in/alfrednerstu)
 
-<!--
 **alfrednerstu/alfrednerstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
