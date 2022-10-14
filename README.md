@@ -12,7 +12,6 @@
 You can also find me here:
 
 - [alfrednerstu.com](https://alfrednerstu.com)
-
 - [Twitter](https://twitter.com/alfrednerstu)
 - [Instagram](https://www.instagram.com/alfrednerstu)
 - [Dribbble](https://dribbble.com/alfred)
