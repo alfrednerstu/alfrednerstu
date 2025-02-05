@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently freelancing as a product & UI designer and building a project of my own
-- 🌱 I’m currently learning SvelteKit + Supabase
+- 🔭 Freelance product & UI designer
+- 🌱 Using SvelteKit
 - 👯 I’m looking to collaborate on web & app projects
 - 🤔 I’m looking for help with development & marketing
 - 💬 Ask me about product & UI design
