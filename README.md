@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Freelance product & UI designer
+- 🚧 Building my own products
 - 🌱 Using SvelteKit
 - 👯 I’m looking to collaborate on web & app projects
-- 🤔 I’m looking for help with development & marketing
+- 🤔 I’m looking for help with business development and marketing
 - 💬 Ask me about product & UI design
 - 📫 How to reach me: hello@alfrednerstu.com
 - 😄 Pronouns: hi/him
