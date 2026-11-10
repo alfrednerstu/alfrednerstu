@@ -1,12 +1,8 @@
 Independent designer building:
 
-<div style="border: 1px solid red;">
-  <img src="https://risved.com/risved.png" width="24" height="24" alt="Risved" style="vertical-align: bottom; margin-right: 8px;" />
+<div style="display: flex; gap: 1em; align-items: center; border: 1px solid red;">
+  <img src="https://risved.com/risved.png" width="24" height="24" alt="Risved" />
   <a href="https://risved.com">Risved</a> - An open-source deployment tool for running apps on a VPS
-</div>
-
-<div style="height: 32px; line-height: 32px; border: 1px solid blue;">
-  <a href="#">Marcia</a> - An open-source markdown editor and LLM memory layer
 </div>
 
 [Marcia](https://marcia.app) - An open-source markdown editor and LLM memory layer
