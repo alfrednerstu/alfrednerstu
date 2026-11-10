@@ -1,7 +1,7 @@
 Independent designer building:
 
 <span style="border: 1px solid red">
-  <img src="https://risved.com/risved.png" width="24" height="24" alt="Risved" />
+  <img src="https://risved.com/risved.png" width="16" height="16" alt="Risved" />
   <a href="https://risved.com">Risved</a> - An open-source deployment tool for running apps on a VPS
 </span>
 
