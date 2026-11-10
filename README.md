@@ -7,11 +7,11 @@ Independent designer building:
 [Vionio](https://vionio.com) - An social platform 
 
 
-<img src="https://inlägg.se/favicon.png" width="24" align="top"> [Inlägg](https://inlagg.com) - An authentic social platform in Sweden
+<img src="https://inlagg.se/favicon.png" width="24" align="top"> [Inlägg](https://inlagg.com) - An authentic social platform in Sweden
 
-<img src="https://inlägg.se/favicon.png" width="24" align="top"> [Indlæg](https://indlaeg.com) - An authentic social platform in Denmark
+<img src="https://inlagg.se/favicon.png" width="24" align="top"> [Indlæg](https://indlaeg.com) - An authentic social platform in Denmark
 
-<img src="https://inlägg.se/favicon.png" width="24" align="top"> [Innlegg](https://innlegg.com) - An authentic social platform in Norway
+<img src="https://inlagg.se/favicon.png" width="24" align="top"> [Innlegg](https://innlegg.com) - An authentic social platform in Norway
 
 
 
