@@ -1,6 +1,6 @@
 Independent designer building:
 
-<div style="display: flex; gap: 1em; align-items: center; border: 1px solid red;">
+<div style="display: flex; gap: 16em; align-items: center; border: 1px solid red;">
   <img src="https://risved.com/risved.png" width="24" height="24" alt="Risved" />
   <a href="https://risved.com">Risved</a> - An open-source deployment tool for running apps on a VPS
 </div>
