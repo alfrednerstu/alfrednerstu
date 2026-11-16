@@ -1,6 +1,6 @@
 Independent designer building:
 
-<img src="[https://risved.com/risved.png](https://avatars.githubusercontent.com/u/313409235?s=64&v=4)" width="24" align="top"> [Workshop Europa](https://github.com/workshopeuropa) - A nonprofit developing open-source software and digital infrastructure
+<img src="https://workshopeuropa.com/w-180.png" width="24" align="top"> [Workshop Europa](https://github.com/workshopeuropa) - A nonprofit developing open-source software and digital infrastructure
 
 <img src="https://risved.com/risved.png" width="24" align="top"> [Risved](https://risved.com) - An open-source deployment tool for running apps on a VPS
 
